@@ -1,0 +1,5 @@
+- Tipo:: [[NotaÁrea]]
+- Área:: [[A000. Desarrollo Software]]
+- Link:: [[Lenguages de prgramación.]]
+- Fecha:: 2025-11-04
+---

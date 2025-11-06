@@ -1,0 +1,5 @@
+- Tipo:: [[NotaRecurso]]
+- Recurso::
+- Link::
+- Fecha:: {{date}}
+---

@@ -1,0 +1,5 @@
+- Tipo:: [[NotaProyecto]]
+- Proyecto:: 
+- Link::
+- Fecha:: {{date}}
+---

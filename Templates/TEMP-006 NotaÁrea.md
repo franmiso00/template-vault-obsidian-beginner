@@ -1,0 +1,5 @@
+- Tipo:: [[NotaÁrea]]
+- Área:: 
+- Link::
+- Fecha:: {{date}}
+---
