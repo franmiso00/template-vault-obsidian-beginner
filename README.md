@@ -33,11 +33,16 @@ En definitiva, **quieres crear tu Segundo Cerebro**
 Si no conoces el *mark down (.md)* aquí te dejo los principales formatos que deberías conocer, ya que el resto los puedes realizar desde el "Editing Tollbar" que debes ver en la cabecera de cada nota. 
 
 **Formatos imprescindibles:** 
-- Enlaces entre notas: 
-- Enlaces a adjuntos (imágenes, pdfs,...):
+- Enlaces entre notas: `[[Nombre de la nota]]` - Conecta notas entre sí. La base de un sistema de conocimiento interconectado.
+- Enlaces a adjuntos (imágenes, pdfs,...): `![[nombre-archivo.png]]` o `![[documento.pdf]]` - Embebe archivos directamente en tus notas. El ! hace que se visualice el contenido.
 - Títulos y subtítulos:
-- Negritas:
-- Cursivas:
+  	- `# Título principal` (H1)
+	- `## Subtítulo` (H2)
+	- `### Subtítulo menor` (H3)
+  	- Y así hasta H6. Usa la jerarquía para estructurar el contenido con claridad.
+
+- Negritas: `**texto en negrita**` - Para destacar conceptos clave o puntos de acción.
+- Cursivas: `*texto en cursiva*` o `_texto en cursiva_` - Para énfasis sutil o términos específicos.
 
 ## ¿Cómo Funciona el Sistema?
 
