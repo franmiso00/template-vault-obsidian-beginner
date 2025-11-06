@@ -1,0 +1,1 @@
+Proyectos, áreas, notas que no queramos seguir teniendo en nuestro espacio de trabajo, vendrán a **Archivos**.
